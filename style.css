@@ -234,13 +234,6 @@ body {
     height: 440px;
 }
 
-@media screen and (max-width: 991.98px) {
-    .envlope-wrapper {
-        height: 380px;
-        min-width: 100%;
-    }
-}
-
 .reset {
     text-align: center;
 }
